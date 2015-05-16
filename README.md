@@ -16,6 +16,16 @@ This repository contains several directories, and each directory contains a READ
 * `data_bags/` - Store data bags and items in .json in the repository.
 * `roles/` - Store roles in .rb or .json in the repository.
 
+
+Cloning the repository
+======================
+You can clone this repository by executing 
+
+```
+#  curl -sSL https://github.com/mrdimka/MyApp-chef-repo/raw/master/scripts/install.sh | sh
+```
+
+
 Rake Tasks
 ==========
 
